@@ -1,0 +1,6 @@
+{
+    "VotedSuccess": "The following action was run:",
+    "VotedIn": "voted yes in running the action:",
+    "TypePrefix": "Type",
+    "TypeSuffix": "to also vote yes"
+}

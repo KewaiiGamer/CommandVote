@@ -1,0 +1,6 @@
+{
+    "VotedSuccess": "A seguinte acao foi executada:",
+    "VotedIn": "votou sim em executar a acao:",
+    "TypePrefix": "Escreve",
+    "TypeSuffix": "para votar sim tambem."
+}
